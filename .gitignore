@@ -1,0 +1,6 @@
+*.obj
+*.ppu
+*.o
+*.a
+*.exe
+*.dll
